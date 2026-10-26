@@ -1,0 +1,4 @@
+/rag_pipeline/documents/
+.env
+.venv/
+__pycache__/
